@@ -1,6 +1,6 @@
 package ${packageName};
 
-import com.xxkj.renrenxiangxue.base.basemvp.BaseModel
+import com.dtk.dtkapp.base.basemvp.BaseModel
 
 class ${modelName}: BaseModel() {
 

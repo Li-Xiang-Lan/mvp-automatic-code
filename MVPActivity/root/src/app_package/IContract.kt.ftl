@@ -1,5 +1,5 @@
 package ${packageName};
-import com.xxkj.renrenxiangxue.base.basemvp.BaseContract
+import com.dtk.dtkapp.base.basemvp.BaseContract
 
 interface ${contractName} {
 	interface View:BaseContract.BaseView{

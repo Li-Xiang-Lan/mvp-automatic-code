@@ -1,7 +1,7 @@
 package ${escapeKotlinIdentifiers(packageName)}
 
-import com.xxkj.renrenxiangxue.R
-import com.xxkj.renrenxiangxue.base.MvpBaseActivity
+import com.dtk.dtkapp.R
+import com.dtk.dtkapp.base.MvpBaseActivity
 
 class ${activityClass}:MvpBaseActivity<${presenterName}>(),${contractName}.View{
 
